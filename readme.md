@@ -68,7 +68,7 @@ The Forge is a prompting framework, not a software package.
 
 You can begin by copying example prompts or agent templates from /prompt-modules into your LLM of choice. Then:
 
-Define the roles and geometry.
+Define the roles and geometry. more geometries can be found in the /prompt geometries 
 
 Route tasks to appropriate agents.
 
@@ -77,4 +77,5 @@ Use protocol logic to manage validation and iteration.
 Simulate memory using structured token prompts or metaphorical layouts.
 
 Reflect using the Meta-Observer agent.
+
 
